@@ -1,0 +1,19 @@
+1. git init 
+2. se crea archivo gulpfile.js 
+3. npm i --save-dev gulp 
+4. npm install --save-dev gulp-sass 
+5. para instalar dependencias se utiliza - npm install 
+6. para minificar las imagenes => npm install --save-dev gulp-imagemin 
+7. para notificar al usuario => npm i --save-dev gulp-notify
+8. para comvertir las imagenes a webp => npm i --save-dev gulp-webp
+9. para concatenar el js => npm i --save-dev gulp-concat
+
+//optimiza el css 
+10. npm install --save-dev autoprefixer gulp-postcss gulp-sourcemaps cssnano 
+11. se isntala para ocnfiguirar el psot.js => npm install --save-dev postcss  
+
+//optimizar el js | minificador de codigo 
+npm install --save-dev gulp-terser-js
+
+//renombrar ela rchivo ya escrito en gulp 
+npm install --save-dev gulp-rename
