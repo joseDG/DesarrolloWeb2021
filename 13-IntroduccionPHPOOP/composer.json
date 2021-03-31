@@ -1,0 +1,16 @@
+{
+    "name": "debian10/introduccion-phpoop",
+    "description": "Aprendioedo Namespace y autoload",
+    "authors": [
+        {
+            "name": "Jose",
+            "email": "correo@correo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./clases"
+        }
+    }
+}
